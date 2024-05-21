@@ -1,0 +1,46 @@
+
+<departments>
+    <department>
+        <name>Computer Science</name>
+        <years>
+            <year>
+                <name>First Year</name>
+                <students>
+                    <student>
+                        <name>Philips</name>
+                        <id>12</id>
+                    </student>
+                </students>
+            </year>
+            <year>
+                <name>Second Year</name>
+                <students>
+                    <student>
+                        <name>Marcus</name>
+                        <id>45</id>
+                    </student>
+                </students>
+            </year>
+        </years>
+    </department>
+    <department>
+        <name>Electrical Engineering</name>
+        <years>
+            <year>
+                <name>First Year</name>
+                <students>
+                    <student>
+                        <name>Andrew</name>
+                        <id>18</id>
+                    </student>
+                </students>
+            </year>
+            <year>
+                <name>Second Year</name>
+                <students>
+                    <!-- Add more students here -->
+                </students>
+            </year>
+        </years>
+    </department>
+</departments>
